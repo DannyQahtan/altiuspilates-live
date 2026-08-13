@@ -1,0 +1,282 @@
+{
+  "_Breadcrumbs-41c428a6.js": {
+    "file": "assets/Breadcrumbs-41c428a6.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html"
+    ]
+  },
+  "_forms-d93cc4f2.js": {
+    "file": "assets/forms-d93cc4f2.js",
+    "imports": [
+      "_react-68c4532c.js"
+    ]
+  },
+  "_framer-motion-8275151d.js": {
+    "file": "assets/framer-motion-8275151d.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "_vendor-5b052182.js"
+    ]
+  },
+  "_mediaStorage-a24a925c.js": {
+    "file": "assets/mediaStorage-a24a925c.js"
+  },
+  "_react-68c4532c.js": {
+    "file": "assets/react-68c4532c.js",
+    "imports": [
+      "_vendor-5b052182.js"
+    ]
+  },
+  "_ui-62d89ad9.js": {
+    "file": "assets/ui-62d89ad9.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "_vendor-5b052182.js"
+    ]
+  },
+  "_useR2Manifest-759fe964.js": {
+    "file": "assets/useR2Manifest-759fe964.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "_mediaStorage-a24a925c.js"
+    ]
+  },
+  "_vendor-5b052182.js": {
+    "file": "assets/vendor-5b052182.js",
+    "imports": [
+      "_react-68c4532c.js"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index-f68e1a5a.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/Logo-b134675a.png",
+      "assets/montserrat-latin-300-normal-a04fdaae.woff2",
+      "assets/montserrat-latin-300-normal-30a9d5f5.woff",
+      "assets/montserrat-latin-400-normal-e66bcd27.woff2",
+      "assets/montserrat-latin-400-normal-6a7d6a30.woff",
+      "assets/montserrat-latin-500-normal-2b53300f.woff2",
+      "assets/montserrat-latin-500-normal-7ad98b2c.woff",
+      "assets/montserrat-latin-600-normal-d857325c.woff2",
+      "assets/montserrat-latin-600-normal-97ec5882.woff",
+      "assets/fraunces-latin-400-normal-e558f394.woff2",
+      "assets/fraunces-latin-400-normal-69544243.woff",
+      "assets/fraunces-latin-500-normal-7975c1ef.woff2",
+      "assets/fraunces-latin-500-normal-3f090b71.woff",
+      "assets/fraunces-latin-600-normal-3a1de771.woff2",
+      "assets/fraunces-latin-600-normal-d78e988f.woff"
+    ],
+    "css": [
+      "assets/index-f68e1a5a.css"
+    ],
+    "dynamicImports": [
+      "src/pages/HomePage.tsx",
+      "src/pages/PricingPage.tsx",
+      "src/pages/ClassesPage.tsx",
+      "src/pages/GalleryPage.tsx",
+      "src/pages/CommunityPage.tsx",
+      "src/pages/ContactPage.tsx",
+      "src/pages/PrivacyPage.tsx",
+      "src/pages/NotFoundPage.tsx"
+    ],
+    "file": "assets/app-d149e1eb.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "_ui-62d89ad9.js",
+      "_vendor-5b052182.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "node_modules/@fontsource/fraunces/files/fraunces-latin-400-normal.woff": {
+    "file": "assets/fraunces-latin-400-normal-69544243.woff",
+    "src": "node_modules/@fontsource/fraunces/files/fraunces-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/fraunces/files/fraunces-latin-400-normal.woff2": {
+    "file": "assets/fraunces-latin-400-normal-e558f394.woff2",
+    "src": "node_modules/@fontsource/fraunces/files/fraunces-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/fraunces/files/fraunces-latin-500-normal.woff": {
+    "file": "assets/fraunces-latin-500-normal-3f090b71.woff",
+    "src": "node_modules/@fontsource/fraunces/files/fraunces-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/fraunces/files/fraunces-latin-500-normal.woff2": {
+    "file": "assets/fraunces-latin-500-normal-7975c1ef.woff2",
+    "src": "node_modules/@fontsource/fraunces/files/fraunces-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/fraunces/files/fraunces-latin-600-normal.woff": {
+    "file": "assets/fraunces-latin-600-normal-d78e988f.woff",
+    "src": "node_modules/@fontsource/fraunces/files/fraunces-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/fraunces/files/fraunces-latin-600-normal.woff2": {
+    "file": "assets/fraunces-latin-600-normal-3a1de771.woff2",
+    "src": "node_modules/@fontsource/fraunces/files/fraunces-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff": {
+    "file": "assets/montserrat-latin-300-normal-30a9d5f5.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff2": {
+    "file": "assets/montserrat-latin-300-normal-a04fdaae.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-300-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff": {
+    "file": "assets/montserrat-latin-400-normal-6a7d6a30.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2": {
+    "file": "assets/montserrat-latin-400-normal-e66bcd27.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff": {
+    "file": "assets/montserrat-latin-500-normal-7ad98b2c.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2": {
+    "file": "assets/montserrat-latin-500-normal-2b53300f.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff": {
+    "file": "assets/montserrat-latin-600-normal-97ec5882.woff",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2": {
+    "file": "assets/montserrat-latin-600-normal-d857325c.woff2",
+    "src": "node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2"
+  },
+  "src/assets/BackgroundImage.webp": {
+    "file": "assets/BackgroundImage-3d46305a.webp",
+    "src": "src/assets/BackgroundImage.webp"
+  },
+  "src/assets/ClassesBackGroundImage.webp": {
+    "file": "assets/ClassesBackGroundImage-36804eb2.webp",
+    "src": "src/assets/ClassesBackGroundImage.webp"
+  },
+  "src/assets/ContactUsPageGraphic.webp": {
+    "file": "assets/ContactUsPageGraphic-ad959aef.webp",
+    "src": "src/assets/ContactUsPageGraphic.webp"
+  },
+  "src/assets/Logo.png": {
+    "file": "assets/Logo-b134675a.png",
+    "src": "src/assets/Logo.png"
+  },
+  "src/pages/ClassesPage.tsx": {
+    "assets": [
+      "assets/ClassesBackGroundImage-36804eb2.webp"
+    ],
+    "file": "assets/ClassesPage-6fbfc566.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_ui-62d89ad9.js",
+      "_mediaStorage-a24a925c.js",
+      "_framer-motion-8275151d.js",
+      "_Breadcrumbs-41c428a6.js",
+      "_vendor-5b052182.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/ClassesPage.tsx"
+  },
+  "src/pages/CommunityPage.tsx": {
+    "file": "assets/CommunityPage-bb00096e.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_mediaStorage-a24a925c.js",
+      "_useR2Manifest-759fe964.js",
+      "_framer-motion-8275151d.js",
+      "_Breadcrumbs-41c428a6.js",
+      "_vendor-5b052182.js",
+      "_ui-62d89ad9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/CommunityPage.tsx"
+  },
+  "src/pages/ContactPage.tsx": {
+    "assets": [
+      "assets/ContactUsPageGraphic-ad959aef.webp"
+    ],
+    "file": "assets/ContactPage-24940325.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_forms-d93cc4f2.js",
+      "_framer-motion-8275151d.js",
+      "_Breadcrumbs-41c428a6.js",
+      "_vendor-5b052182.js",
+      "_ui-62d89ad9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/ContactPage.tsx"
+  },
+  "src/pages/GalleryPage.tsx": {
+    "file": "assets/GalleryPage-99e73671.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_ui-62d89ad9.js",
+      "_mediaStorage-a24a925c.js",
+      "_useR2Manifest-759fe964.js",
+      "_framer-motion-8275151d.js",
+      "_Breadcrumbs-41c428a6.js",
+      "_vendor-5b052182.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/GalleryPage.tsx"
+  },
+  "src/pages/HomePage.tsx": {
+    "assets": [
+      "assets/BackgroundImage-3d46305a.webp"
+    ],
+    "file": "assets/HomePage-b7326502.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_framer-motion-8275151d.js",
+      "_vendor-5b052182.js",
+      "_ui-62d89ad9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/HomePage.tsx"
+  },
+  "src/pages/NotFoundPage.tsx": {
+    "file": "assets/NotFoundPage-110f603f.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_vendor-5b052182.js",
+      "_ui-62d89ad9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/NotFoundPage.tsx"
+  },
+  "src/pages/PricingPage.tsx": {
+    "file": "assets/PricingPage-bc2243b8.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_framer-motion-8275151d.js",
+      "_Breadcrumbs-41c428a6.js",
+      "_vendor-5b052182.js",
+      "_ui-62d89ad9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/PricingPage.tsx"
+  },
+  "src/pages/PrivacyPage.tsx": {
+    "file": "assets/PrivacyPage-681441b1.js",
+    "imports": [
+      "_react-68c4532c.js",
+      "index.html",
+      "_Breadcrumbs-41c428a6.js",
+      "_vendor-5b052182.js",
+      "_ui-62d89ad9.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/PrivacyPage.tsx"
+  }
+}
